@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="name">Name</string>
+    <string name="remarks">Remarks</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail">Detail</string>
+    <string name="set_photo">set_photo</string>
+    <string name="symbol">Symbol</string>
+    <string name="element">Element</string>
+    <string name="ruler">Ruler</string>
+</resources>

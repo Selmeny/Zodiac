@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    style="@style/style_relative_layout"
+    tools:context="com.dicoding.paul.zodiac.MainActivity">
+
+    <!-- action bar is replaced by toolbar -->
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        style="@style/style_toolbar">
+        <TextView
+            android:id="@+id/toolbar_title"
+            style="@style/style_toolbar_textview"/>
+    </android.support.v7.widget.Toolbar>
+
+    <!-- scrollview is placed below toolbar to prevent the toolbar being scrolled -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_category"
+        style="@style/style_recyclerview"/>
+</RelativeLayout>
