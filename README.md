@@ -4,6 +4,7 @@ My first android project as a submission for dicoding academy. This project was 
 Here are the main things that i learned to use in this project:
 - Arraylist
 - Recyclerview
-- Support library like glide from bumptech
+- Support library: glide from bumptech
+- Support library: cardview
 
 
