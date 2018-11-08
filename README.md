@@ -7,4 +7,8 @@ Here are the main things that i learned to use in this project:
 - Support library: glide from bumptech
 - Support library: cardview
 
+Pictures:
+
+<img src="https://github.com/Selmeny/Zodiac/blob/master/app/src/main/res/drawable/images-1.png" width="200"> <img src="https://github.com/Selmeny/Zodiac/blob/master/app/src/main/res/drawable/images-2.png" width="200">
+
 
