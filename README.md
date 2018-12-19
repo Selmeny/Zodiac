@@ -9,6 +9,6 @@ Here are the main things that i learned to use in this project:
 
 Pictures:
 
-<img src="https://github.com/Selmeny/Zodiac/blob/master/app/src/main/res/drawable/images-1.png" width="200"> <img src="https://github.com/Selmeny/Zodiac/blob/master/app/src/main/res/drawable/images-2.png" width="200">
+<img src="https://github.com/Selmeny/Zodiac/blob/master/app/src/main/res/drawable/images_1.png" width="200"> <img src="https://github.com/Selmeny/Zodiac/blob/master/app/src/main/res/drawable/images_2.png" width="200">
 
 
